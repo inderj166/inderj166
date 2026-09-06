@@ -1,6 +1,6 @@
 # Profile-Overview
 My personal GitHub profile — QA Engineer exploring AI, Business Analytics, Python &amp; SQL
-# Hi, I'm Inderjeet Kour 👋
+# Hi, I'm Inderjeet Kour 
 
 Strong interest in **Software Quality Assurance**, **AI**, and **Business Analytics** — passionate about addressing real-world problems through technology.
 
@@ -56,7 +56,7 @@ Tata Consultancy Services (TCS), India — Feb 2017 – Nov 2018
 - Collaborated within an Agile Scrum team, managing test progress in HP ALM and coordinating timely defect resolution
 - Earned TCS internal certifications in MasterCraft DevPlus Test Management and IoT
 
-**Data Entry Operator / Analyst**
+**Data Entry Operator / Data Analyst**
 Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 - Managed and digitised academic records and payroll data for 300+ students with 100% data accuracy
 - Applied a quality-first mindset to detect and resolve data discrepancies before formal submission
