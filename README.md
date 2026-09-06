@@ -4,7 +4,7 @@ My personal GitHub profile — QA Engineer exploring AI, Business Analytics, Pyt
 
 Strong interest in **Software Quality Assurance**, **AI**, and **Business Analytics** — passionate about addressing real-world problems through technology.
 
-🎓 B.E. in Computer Engineering from GCET, Jammu
+🎓 B.E. in Computer Engineering from GCET, Jammu <br>
 🎓 Currently pursuing an MSc in Business Analytics and AI at DCU (Dublin City University)
 
 ---
