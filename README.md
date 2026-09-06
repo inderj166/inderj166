@@ -46,7 +46,7 @@ I focus on **automation and interactive technologies**, with hands-on industry e
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 **Assistant System Engineer / Software QA Engineer**
 Tata Consultancy Services (TCS), India — Feb 2017 – Nov 2018
@@ -55,7 +55,7 @@ Tata Consultancy Services (TCS), India — Feb 2017 – Nov 2018
 - Identified process gaps and recommended improvements to QA validation procedures
 - Collaborated within an Agile Scrum team, managing test progress in HP ALM and coordinating timely defect resolution
 - Earned TCS internal certifications in MasterCraft DevPlus Test Management and IoT
-
+  
 **Data Entry Operator / Data Analyst**
 Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 - Managed and digitised academic records and payroll data for 300+ students with 100% data accuracy
