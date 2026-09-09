@@ -1,8 +1,8 @@
-# Profile-Overview
-My personal GitHub profile — QA Engineer exploring AI, Business Analytics, Python &amp; SQL
 # Hi, I'm Inderjeet Kour 
+##QA Engineer exploring **AI**, **Business Analytics**, **Python** & **SQL**
 
-Strong interest in **Software Quality Assurance**, **AI**, and **Business Analytics** — passionate about addressing real-world problems through technology.
+I bridge the gap between technical data pipelines and strategic business insights. With a strong foundation in Quality Engineering, I ensure data integrity while building predictive AI systems
+
 
 🎓 B.E. in Computer Engineering from GCET, Jammu <br>
 🎓 Currently pursuing an MSc in Business Analytics and AI at DCU (Dublin City University)
@@ -64,11 +64,6 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 
 ---
 
-## 📌 Featured Project
-
-- [my-sql-basic-project](https://github.com/inderj166/my-sql-basic-project) — SQL fundamentals (SELECT, WHERE, JOIN, aggregate functions) with a Python + Jupyter Notebook demo
-
----
 
 ## 📫 Let's Connect
 
