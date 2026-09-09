@@ -1,7 +1,11 @@
-# Hi, I'm Inderjeet Kour 
-##QA Engineer exploring **AI**, **Business Analytics**, **Python** & **SQL**
+# Hi, I'm Inderjeet Kour 👋
+### QA Engineer | Data Analyst | Aspiring Business Analytics & AI Professional
 
-I bridge the gap between technical data pipelines and strategic business insights. With a strong foundation in Quality Engineering, I ensure data integrity while building predictive AI systems
+I am a **Computer Engineering graduate** and former **TCS Assistant System Engineer** re-entering the corporate tech landscape. I specialize in bridging the gap between rigorous **Software Quality Assurance**, **Data Operations**, and **Automated Analytics**. 
+
+With an unwavering commitment to continuous upskilling, I am expanding my engineering foundations into advanced Python data pipelines, relational SQL architecture, and ethical AI auditing frameworks to drive strategic corporate decisions.
+
+---
 
 
 🎓 B.E. in Computer Engineering from GCET, Jammu <br>
