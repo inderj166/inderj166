@@ -1,4 +1,4 @@
-# Hi, I'm Inderjeet Kour 👋
+# Hi, I'm Inderjeet Kour 
 ### QA Engineer | Data Analyst | Aspiring Business Analytics & AI Professional
 
 I am a **Computer Engineering graduate** and former **TCS Assistant System Engineer** re-entering the corporate tech landscape. I specialize in bridging the gap between rigorous **Software Quality Assurance**, **Data Operations**, and **Automated Analytics**. 
