@@ -72,7 +72,9 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 ⭐ Pinned Repository <br>
 🌐 Live Demo available at https://inderj166.github.io/dcu-sql-live-project/
 2. **Floral photography website** <br>
-  live Demo available at https://inderj166.github.io/floral-website/
+  live Demo available at https://inderj166.github.io/floral-website/ <br>
+  3. **India and Ireland AI future**
+      Demo at https://inderj166.github.io/India-Ireland-AI-Futures/
 
 ## 📫 Let's Connect
 
