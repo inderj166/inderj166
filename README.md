@@ -68,9 +68,11 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 
 ---
 ##**Featured Project**
-🎓 DCU Student SQL Analytics Dashboard
-⭐ Pinned Repository
+1. 🎓 **DCU Student SQL Analytics Dashboard** <br>
+⭐ Pinned Repository <br>
 🌐 Live Demo available at https://inderj166.github.io/dcu-sql-live-project/
+2. **Floral photography website** <br>
+  live Demo available at https://inderj166.github.io/floral-website/
 
 ## 📫 Let's Connect
 
