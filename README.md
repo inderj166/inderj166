@@ -69,16 +69,18 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 ---
 ##**Featured Project**
 1. 🎓 **DCU Student SQL Analytics Dashboard** <br>
- Live Demo available at https://inderj166.github.io/dcu-sql-live-project/
-2. **Floral photography website** <br>
+ Live Demo available at https://inderj166.github.io/dcu-sql-live-project/  <br>
+ 2. **Loan fiarness AI audit** <br>
+   Live Demo at https://inderj166.github.io/loan-fairness-ai-audit/  <br>
+3. **Floral photography website** <br>
   live Demo available at https://inderj166.github.io/floral-website/ <br>
-  3. **India and Ireland AI future**
+  4. **India and Ireland AI future** <br>
       Demo at https://inderj166.github.io/India-Ireland-AI-Futures/
 
 ## 📫 Let's Connect
 
-**LinkedIn** (www.linkedin.com/in/inderjeet-kour-41070b378)
+**LinkedIn** (www.linkedin.com/in/inderjeet-kour-41070b378)   <br>
 **GitHub**  (https://github.com/inderj166)
 
-📧 **Primary:** inderj361@gmail.com
+📧 **Primary:** inderj361@gmail.com    <br>
 📧 **Alternate:** indergur166@gmail.com
