@@ -67,7 +67,7 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 - Streamlined clerical workflows through systematic record-keeping
 
 ---
-##**Featured Project**
+## **Featured Project**
 1. 🎓 **DCU Student SQL Analytics Dashboard** <br>
  Live Demo available at https://inderj166.github.io/dcu-sql-live-project/  <br>
  2. **Loan fairness AI audit** <br>
