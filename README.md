@@ -36,7 +36,7 @@ I focus on **automation and interactive technologies**, with hands-on industry e
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Machine Learning & AI
-*(Building this up as I progress through my Master's — updates coming soon)*
+
 
 ### QA & Testing
 ![Agile](https://img.shields.io/badge/-Agile%20Scrum-0052CC?style=flat-square)
@@ -77,8 +77,8 @@ Bharti Public High School, Jammu — Aug 2019 – Mar 2025
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/inderj166)
+**LinkedIn** (www.linkedin.com/in/inderjeet-kour-41070b378)
+**GitHub**  (https://github.com/inderj166)
 
-📧 inderj361@gmail.com
-📧 indergur166@gmail.com
+📧 **Primary:** inderj361@gmail.com
+📧 **Alternate:** indergur166@gmail.com
