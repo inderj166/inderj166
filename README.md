@@ -9,7 +9,7 @@ With an unwavering commitment to continuous upskilling, I am expanding my engine
 
 
 🎓 B.E. in Computer Engineering from GCET, Jammu <br>
-🎓 Currently pursuing an MSc in Business Analytics and AI at DCU (Dublin City University)
+
 
 ---
 
