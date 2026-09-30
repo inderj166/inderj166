@@ -35,9 +35,10 @@ I focus on **automation and interactive technologies**, with hands-on industry e
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Machine Learning & AI
-
-
+### Machine Learning & AI <br>
+**Learning (DCU MSc):** NLP, responsible AI <br>
+**Interests:** AI governance, India-Ireland AI policy, ethical AI
+<br>
 ### QA & Testing
 ![Agile](https://img.shields.io/badge/-Agile%20Scrum-0052CC?style=flat-square)
 ![SDLC/STLC](https://img.shields.io/badge/-SDLC%2FSTLC-brightgreen?style=flat-square)
