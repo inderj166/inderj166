@@ -20,7 +20,6 @@ I focus on **automation and interactive technologies**, with hands-on industry e
 - 🔍 Skilled in manual & automation testing, test strategy design, and full SDLC/STLC
 - 🤝 Strong customer interaction, stakeholder communication, and Agile Scrum collaboration
 - 💻 Comfortable across HTML, CSS, Python, and SQL
-- 📊 Currently expanding into Business Analytics, AI, and (soon) VR/AR through my Master's degree
 - 🌱 Always learning — this profile and my repos grow as I do
 
 ---
